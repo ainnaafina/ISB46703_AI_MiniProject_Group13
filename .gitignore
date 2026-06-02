@@ -220,3 +220,7 @@ __marimo__/
 # Project specific data folders
 data/
 dataset/
+
+# Ignore .keras files
+*.keras
+
